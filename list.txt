@@ -1,0 +1,23 @@
+
+
+
+ puzzle3-maze
+ copy the 1st capstone game
+
+ gamestates for the game
+ gamestate = title- 1st screen of the game
+ gamestate= start- pressing the space button
+ gamestate=puzzle1- takes you the the2nd puzzle
+ gamestate= puzzle2
+ gamestate3 =puzzle3(optional)
+ gamestate =end
+
+ things needed to be done for capstone project
+
+ animated images for characters and backgrounds
+ formatting
+ maze needed
+ title screen also needed
+
+
+
